@@ -1,0 +1,9 @@
+---
+title: "Ecological Modernization in a Time of Financialization:  The Impact of Corporate Debt on Environmental Policy Effectiveness"
+collection: publications
+category: manuscript_prep
+permalink: /publication/m-Phan-debt-emt
+excerpt: 'For this project, I take advantage of large datasets by S&P on firm-level environmental impacts and financial fundamentals to examine if there is a relationship between corporate debt and firm-level scope 1 GHG emissions.'
+---
+
+***Abstract***: Critical environmental sociologists argue that the logic of capitalism tends to undermine its own efforts for environmental reforms. However, not only is there a dearth in works focusing on these potential dynamics despite a growing body of research on the environmental state and the political economy of decarbonization, extant research also seldom considers the environmental implications of financialization, an important dynamic of capitalism. I contribute to the literature by examining how the growing use of corporate debt under financialization affects the effectiveness of environmental policies, using a large dataset of more than 52,000 observations from nearly 7,900 companies from 2002 to 2020. Results from mixed-effects models show that (1) debt is positively correlated with firm-level scope one GHG emissions, (2) environmental policies, particularly market-based instruments such as emissions taxes and trading schemes, are negatively associated with emissions, and (3) debt significantly weakens the effectiveness of environmental policies. These findings suggests that reliance on debt may be constraining specific decarbonization investments: firms leveraging debt financing may also be prioritizing investments with higher returns more, and since they view the gains from decarbonization as less certain or significant, capital is channeled towards more carbon-intensive, supposedly more profitable investments.
