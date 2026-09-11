@@ -23,7 +23,7 @@ repository               : "viethphan/viethphan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_2.jfif"
+  avatar           : "profile_2.png"
   name             : "Viet H Phan"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Sociology,<br/>Boston College"
